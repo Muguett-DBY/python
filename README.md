@@ -36,3 +36,5 @@ Open the same file in your editor. The explanations and exercises live alongside
 Work through the files in order or jump to a topic you want to practice. Run them locally so you can see how real Python files, imports, and terminal input fit together.
 
 Adapted from the [USRC Python workshop](https://github.com/usydroboticsclub/python). The original teaching material and its authors retain their attribution.
+
+See [source and rights](docs/SOURCE_AND_RIGHTS.md) before reusing imported exercises or media.
