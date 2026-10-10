@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="280" viewBox="0 0 1080 280" role="img" aria-labelledby="title desc">
+<title id="title">Python Starter Workshop</title><desc id="desc">Read a little. Run it. Change something.</desc>
+<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#101522"/><stop offset="1" stop-color="#202139"/></linearGradient><radialGradient id="glow"><stop stop-color="#8ecbff" stop-opacity=".16"/><stop offset="1" stop-color="#8ecbff" stop-opacity="0"/></radialGradient></defs>
+<rect width="1080" height="280" rx="20" fill="url(#bg)"/>
+<circle cx="910" cy="124" r="210" fill="url(#glow)"/>
+<path d="M743 30v220" stroke="#ffffff" opacity=".1"/>
+<path d="M40 246h660" stroke="#ffffff" opacity=".12"/>
+<rect x="42" y="43" width="4" height="14" rx="2" fill="#8ecbff"/>
+<text x="57" y="55" font-family="Consolas,monospace" font-size="12" letter-spacing="2" fill="#8ecbff">LEARN / PYTHON</text>
+<text x="40" y="117" font-family="Segoe UI,Arial,sans-serif" font-weight="700" font-size="37" fill="#f5f3fb">Python Starter Workshop</text>
+<text x="42" y="156" font-family="Segoe UI,Arial,sans-serif" font-size="18" fill="#c5c9db">Read a little. Run it. Change something.</text>
+<text x="42" y="214" font-family="Consolas,monospace" font-size="12" letter-spacing="1" fill="#ffd786">BY CUSTARD</text>
+<g stroke="#8ecbff" stroke-width="2.5" fill="none" stroke-linecap="round" stroke-linejoin="round"><rect x="794" y="63" width="207" height="148" rx="14"/><path d="M794 97h207M818 130l18 15-18 15M855 166h73"/></g><g fill="#ffd786"><circle cx="814" cy="81" r="3"/><circle cx="828" cy="81" r="3"/><circle cx="842" cy="81" r="3"/></g>
+</svg>

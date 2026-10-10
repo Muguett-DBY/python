@@ -1,8 +1,17 @@
-# Python Starter Workshop
+<!-- Project artwork created for this repository. -->
+<p align="center">
+  <img src="./docs/assets/readme-banner.svg" width="100%" alt="Python Starter Workshop — Read a little. Run it. Change something." />
+</p>
+
+<h1 align="center">Python Starter Workshop</h1>
+
+<p align="center">
+  <img src="./docs/assets/readme-badges.svg" alt="Learning archive · Python · Beginner exercises" />
+</p>
 
 **Ten small lessons. Read the comments, run the code, and change something.**
 
-`Python` · `Beginner exercises`
+<p align="center"><a href="#get-started">Get started</a> &nbsp; · &nbsp; <a href="#lesson-map">Lesson map</a></p>
 
 ## Get started
 
